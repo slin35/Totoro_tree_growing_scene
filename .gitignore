@@ -1,0 +1,7 @@
+build/
+Debug/
+src/Debug/
+.vs/
+*.vcxproj.user
+x64/
+src/x64
